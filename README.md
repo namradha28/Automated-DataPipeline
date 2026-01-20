@@ -3,7 +3,7 @@ Automated Data Pipeline
 
 This project implements an end-to-end automated data pipeline to ingest, clean, transform, and store data for analytics and machine learning use cases. It supports batch or simulated real-time data and follows a production-style ETL architecture with proper data processing, validation, and storage layers.
 
-🏗️ Architecture
+## 🏗️ Architecture ##
 
 Data Source → Ingestion → Processing (ETL) → Storage → Analytics / Dashboard / ML
 
@@ -27,7 +27,7 @@ Aggregated Data (Gold)
 
 ✅ Modular and scalable design
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack ##
 
 Language: Python
 
@@ -39,7 +39,7 @@ Visualization: Power BI / Matplotlib
 
 Concepts: ETL, Data Modeling, Data Quality, Pipeline Automation
 
-📂 Project Structure
+## 📂 Project Structure ##
 ├── data/
 │   ├── raw/
 │   ├── processed/
@@ -51,14 +51,14 @@ Concepts: ETL, Data Modeling, Data Quality, Pipeline Automation
 ├── main.py
 └── README.md
 
-▶️ How to Run
+## ▶️ How to Run ##
 
 Clone the repository:
 
 git clone <your-repo-url>
 
 
-Install dependencies:
+## Install dependencies: ##
 
 pip install -r requirements.txt
 
