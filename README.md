@@ -1,5 +1,6 @@
-Automated Data Pipeline
-📌 Overview
+# Automated Data Pipeline # 
+
+## 📌 Overview ##
 
 This project implements an end-to-end automated data pipeline to ingest, clean, transform, and store data for analytics and machine learning use cases. It supports batch or simulated real-time data and follows a production-style ETL architecture with proper data processing, validation, and storage layers.
 
@@ -77,7 +78,7 @@ Machine Learning Feature Engineering
 
 Automated Reporting Systems
 
-📈 Outcome
+## 📈 Outcome ##
 
 Built a production-style automated data pipeline
 
@@ -85,6 +86,6 @@ Reduced manual data handling
 
 Improved data readiness for analytics and ML
 
-👩‍💻 Author
+## 👩‍💻 Author ##
 
 Namradha Mani
