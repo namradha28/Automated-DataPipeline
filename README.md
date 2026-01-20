@@ -64,11 +64,11 @@ git clone <your-repo-url>
 pip install -r requirements.txt
 
 
-Run the pipeline:
+## Run the pipeline: ##
 
 python main.py
 
-🎯 Use Cases
+ ## 🎯 Use Cases ##
 
 IoT Data Processing (like Smart Energy Project)
 
