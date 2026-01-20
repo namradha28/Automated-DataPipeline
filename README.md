@@ -14,7 +14,7 @@ Cleaned Data (Silver)
 
 Aggregated Data (Gold)
 
-🔧 Features
+## 🔧 Features ##
 
 ✅ Automated ETL pipeline
 
