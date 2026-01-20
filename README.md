@@ -41,6 +41,7 @@ Visualization: Power BI / Matplotlib
 Concepts: ETL, Data Modeling, Data Quality, Pipeline Automation
 
 ## 📂 Project Structure ##
+
 ├── data/
 │   ├── raw/
 │   ├── processed/
